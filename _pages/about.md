@@ -22,12 +22,14 @@ Research Interest
 
 Education
 ======
-+ **Sep. 2018 - present**   M.E. in computer science and technology   **Chang'an University**
-+ **Sep. 2014 - Jun. 2018**   B.S. in Road Bridge and River-Crossing Engineering (Excellent Engineer Class)   **Chang'an University**
++ **Sep. 2018 - present** &emsp; &emsp; M.E. in computer science and technology &emsp; &emsp;   **Chang'an University**
++ **Sep. 2014 - Jun. 2018** &emsp;  B.S. in Road Bridge and River-Crossing Engineering&emsp; &emsp; **Chang'an University**
   
 
 
 
 <!-- ![Chang'an University](/images/CHD.jpg) -->
-my photo ![me](/images/profile.png)
+
+
+<!-- ![me](/images/profile.png) -->
 
