@@ -22,8 +22,8 @@ Research Interest
 
 Education
 ======
-+ **Sep. 2018 - present** &emsp; &emsp; M.E. in computer science and technology &emsp; &emsp;   **Chang'an University**
-+ **Sep. 2014 - Jun. 2018** &emsp;  B.S. in Road Bridge and River-Crossing Engineering&emsp; &emsp; **Chang'an University**
++ *Sep. 2018 - present* &emsp; M.E. in computer science and technology &emsp;  *Chang'an University*
++ *Sep. 2014 - Jun. 2018* &emsp;  B.S. in Road Bridge and River-Crossing Engineering&emsp; *Chang'an University*
   
 
 

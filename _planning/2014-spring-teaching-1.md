@@ -1,8 +1,16 @@
+<!--
+ * @Descripttion: 
+ * @version: 
+ * @Author: jinlong li
+ * @Date: 2020-12-18 17:16:14
+ * @LastEditors: jinlong li
+ * @LastEditTime: 2020-12-18 17:21:38
+-->
 ---
 title: "Teaching experience 1"
-collection: teaching
+collection: planning
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /planning/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
