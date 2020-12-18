@@ -1,11 +1,3 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: jinlong li
- * @Date: 2020-12-18 17:16:14
- * @LastEditors: jinlong li
- * @LastEditTime: 2020-12-18 17:21:38
--->
 ---
 title: "Teaching experience 1"
 collection: planning
