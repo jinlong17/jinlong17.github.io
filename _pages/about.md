@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Jinlong received the B.S. from the School of Highway, Chang’an University ,Xi’an, China, in 2018. He is currently a postgraduate in the computer science and technology, Chang’an University ,Xi’an, China. His current research focuses on  intelligent transportation system, computer vision and deep learning.
+Jinlong received the B.S. from the School of Highway, Chang’an University ,Xi’an, China, in 2018. I'm currently a postgraduate in the computer science and technology, Chang’an University, Xi’an, China. My current research focuses on  intelligent transportation system, computer vision and deep learning.
 
 News
 ======
