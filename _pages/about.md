@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-
-
 Jinlong received the B.S. from the School of Highway, Chang’an University ,Xi’an, China, in 2018. I'm currently a postgraduate in the computer science and technology, Chang’an University, Xi’an, China. My current research focuses on  intelligent transportation system, computer vision and deep learning.
 
 Recent News
 ======
 
-+ 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
++ Jan. 2020: &emsp; Jinlong is invited to  Transportation Research Board (TRB2020) 99th Annual Meeting Poster: "Domain Adaptation for Vehicle Detection in Traffic Surveillance Images from Daytime to Nighttime" In Washington DC U.S.A.
+
 
 Research Interest
 ======
++ Deep learning 
++ Computer Vision
++ Machine learning
++ Intelligent Transportation
 
 
 Education
