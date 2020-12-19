@@ -1,11 +1,3 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: jinlong li
- * @Date: 2020-12-18 11:17:49
- * @LastEditors: jinlong li
- * @LastEditTime: 2020-12-19 14:31:23
--->
 ---
 permalink: /
 title: "About me"
