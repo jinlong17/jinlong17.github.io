@@ -1,2 +1,6 @@
-_site/
+# IDEs
+.idea/
 
+# Hugo
+/resources/
+public/
