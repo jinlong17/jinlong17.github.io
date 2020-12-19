@@ -13,7 +13,7 @@ Jinlong received the B.S. from the School of Highway, Changâ€™an University ,Xiâ
 Recent News
 ======
 ****
-+ Jan. 2020: &emsp; Jinlong is invited to  Transportation Research Board (TRB2020) 99th Annual Meeting Poster: "Domain Adaptation for Vehicle Detection in Traffic Surveillance Images from Daytime to Nighttime" In Washington DC U.S.A.
++ *Jan. 2020:* &emsp; Jinlong is invited to  Transportation Research Board (TRB2020) 99th Annual Meeting Poster: "Domain Adaptation for Vehicle Detection in Traffic Surveillance Images from Daytime to Nighttime" In Washington DC U.S.A.
 
 
 Research Interest
