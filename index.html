@@ -878,7 +878,23 @@ in Brussels, Belgium, pp. 2675-2678, 2021.
 <br />
 
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5x3ebj080sx&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5x3ebj080sx&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
+
+<!-- 替代方案：Google Maps API 简单展示 -->
+<div id="map" style="height: 400px; width: 100%;"></div>
+<script>
+    function initMap() {
+        var location = { lat: 37.7749, lng: -122.4194 }; // 示例坐标
+        var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 8,
+            center: location
+        });
+        var marker = new google.maps.Marker({ position: location, map: map });
+    }
+</script>
+<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
+</script>
  
 
 <div id="article"></div>
